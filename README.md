@@ -1,60 +1,36 @@
-<div align="center">
-
-# Rimas AbuNasser
-
-### Product Management · Data · AI
-
-*Turning user needs and data into purposeful technology products.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimas-al-abunasser/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Athar-36454F?style=for-the-badge&logo=githubpages&logoColor=white)](https://rimas-al-abunasser.github.io/)
-[![Location](https://img.shields.io/badge/Saudi%20Arabia-Open%20to%20Relocation-667085?style=for-the-badge)](#)
-
-</div>
-
----
-
-### At a glance
-
-| 🧭 Product & Business | 📊 Data & Decisions | 🤖 AI & Technology |
-|:---:|:---:|:---:|
-| Product ownership | Python · SQL | Machine learning |
-| User stories & backlogs | Power BI · Tableau | Computer vision |
-| Requirements & stakeholders | KPIs & dashboards | Model evaluation |
-
-### How I approach products
-
-```mermaid
-flowchart LR
-    A["🔎 Discover"] --> B["🎯 Prioritize"]
-    B --> C["🛠️ Build"]
-    C --> D["📈 Measure"]
-    D -.-> A
-```
-
-### Featured project
-
-<a href="https://github.com/saravii7/3-EyeRoadScanProject">
-  <img src="https://raw.githubusercontent.com/saravii7/3-EyeRoadScanProject/main/assets/banner.png" alt="3-Eye RoadScan project banner" width="100%">
+<a href="https://rimas-al-abunasser.github.io/">
+  <img src="assets/hero.png" width="100%" alt="Rimas Al AbuNasser. Product, AI, Data, IoT. I connect people, business and technology, then press Enter.">
 </a>
 
-**3-Eye RoadScan** · *Collaborative AI Engineering capstone*
+<p align="center">
+  <a href="https://rimas-al-abunasser.github.io/"><img src="assets/btn-portfolio.png" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rimas-al-abunasser/"><img src="assets/btn-linkedin.png" height="44" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:rimas.al.abunasser@gmail.com"><img src="assets/btn-email.png" height="44" alt="Email"></a>
+</p>
 
-| Problem | Solution | My contribution |
-|:---|:---|:---|
-| Road damage reporting and maintenance decisions | Detection · prioritization · duplicate finding | **YOLO detector** · model evaluation · confidence threshold · experiments E2–E4 |
+Hi, I'm Rimas. I work where product, data and hardware meet: I write the user stories, plan the sprints, wire the sensors and train the models, then help the team ship.
 
-[![Repository](https://img.shields.io/badge/View-Team%20Repository-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/saravii7/3-EyeRoadScanProject)
-[![Live Demo](https://img.shields.io/badge/Try-Live%20Demo-087E8B?style=flat-square)](https://3eye-roadscan.streamlit.app)
+<img src="assets/five-keys.png" width="100%" alt="Every key has a job. Ctrl: Lead. Space: Connect. F2: Brighten. Enter: Build. Esc: Explore.">
 
----
+## Selected work
 
-<div align="center">
+**[3-Eye RoadScan](https://github.com/saravii7/3-EyeRoadScanProject)** · AI capstone, 2026<br>A team system that finds road damage in photos and ranks repairs by priority. I trained and compared the YOLO models, picked the final one and tuned its confidence threshold. [Live demo](https://3eye-roadscan.streamlit.app)
 
-**Information Systems (Data Science concentration)**
+**Rewaa** · Smart irrigation · 3rd place, Tech Connect 2025<br>Irrigation guided by sensor data. I managed the project and built the entire hardware (ESP32 and sensors).
 
-*Product ownership · Business analysis · Data analytics · Applied AI*
+**Burhan** · Amad Hackathon, with Alinma Bank &amp; Tuwaiq Academy<br>An AI platform idea that answers questions about financial regulations from the actual rules, with sources (RAG). I led the technical side.
 
-[LinkedIn](https://www.linkedin.com/in/rimas-al-abunasser/) · [Athar Portfolio](https://rimas-al-abunasser.github.io/)
+**Kameel** · Startup founder<br>An AI project-management startup. I led a team of 6 to a prototype at CODE LAB, King Khalid University.
 
-</div>
+**Sunflower Solar Tracker** · 1st place, Node-RED Bootcamp 2023<br>A solar panel that turns to follow the light. I did the programming, wiring and hardware.
+
+## Teaching & community
+
+- Taught **69 children** in STEM and robotics programs at Milhaa · BotBox, as lead trainer.
+- Trained **71 people** in 3D design and printing at Tuwaiq Academy.
+- Designed a data analytics course from scratch and taught **40 sessions** at Mishkat.
+- Led the organizational management department of the Computer Club at King Khalid University.
+
+## Toolkit
+
+**Product:** user stories, backlogs, sprint planning, Jira, market research<br>**Data & AI:** Python, SQL, Power BI, Tableau, YOLO, RAG<br>**IoT:** Arduino, ESP32, Node-RED, sensors, 3D printing
